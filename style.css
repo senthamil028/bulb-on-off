@@ -1,0 +1,21 @@
+img{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+
+}
+h1{
+    margin-left: 450px;
+
+}
+button{
+    margin-left: 650px;
+    background: linear-gradient(90deg,black,white,black);
+    height: 50px;
+    width: 200px;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
